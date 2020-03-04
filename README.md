@@ -1,4 +1,4 @@
-# vue-habilidades
+# The Ultimate Vue 2 Crash Course - Learn by Example
 
 ## Project setup
 ```
